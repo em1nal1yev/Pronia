@@ -1,0 +1,35 @@
+﻿
+@model List<Product>
+
+    <div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id of product</th>
+                <th>Name of product</th>
+                <th>Price of product</th>
+                <th>Description of product</th>
+                <th>Category of product</th>
+                <th>   </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Product product in Model)
+            {
+                    <tr>
+                        <td>@product.Id</td>
+                        <td>@product.Name</td>
+                        <td>@product.Price</td>
+                        <td>@product.Description</td>
+                        <td>@product.Category.Name</td>
+                        <td>
+                            <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-sm btn-warning">Update</a>
+                            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger">Delete</a>
+                        </td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/Admin/Product/Create" class="btn btn-sm btn-success">Create</a>
+    </div>
+

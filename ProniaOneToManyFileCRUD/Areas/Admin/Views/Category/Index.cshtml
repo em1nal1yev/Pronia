@@ -1,0 +1,29 @@
+﻿
+@model List<Category>
+
+    <div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id of category</th>
+                <th>Name of category</th>
+                <th>   </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model)
+            {
+                <tr>
+                    <td>@category.Id</td>
+                    <td>@category.Name</td>
+                    <td>
+                        <a asp-action="Update" asp-route-id="@category.Id" class="btn btn-sm btn-warning">Update</a>
+                        <a asp-action="Delete" asp-route-id="@category.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="/Admin/Category/Create" class="btn btn-sm btn-success">Create</a>
+    </div>
+

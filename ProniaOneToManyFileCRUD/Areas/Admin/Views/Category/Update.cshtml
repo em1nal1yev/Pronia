@@ -1,0 +1,13 @@
+﻿@model Category
+
+<div calss="container" >
+	<form asp-action="Update" method="post">
+		<div>
+			<label>Category adi daxil edin</label>
+			<input asp-for="Name" class="form-control" placeholder="Category Name" value="@Model.Name"/>
+			<span asp-for="Name" asp-validation-for="Name" calss="text-danger"></span>
+		</div>
+		<button type="submit" class="btn btn-primary">Yadda saxla</button>
+		<a href="/Admin/Category/Index" class="btn btn-secondary">Geri Qayıt</a>
+	</form>
+</div>
