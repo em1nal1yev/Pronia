@@ -37170,5 +37170,95 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\scss\_wishlist.scss'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\97db4abd-9192-4a77-beee-606c5aa1489a.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProniaOneToManyFileCRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProniaOneToManyFileCRUD</BasePath>
+      <RelativePath>Uploads/Products/97db4abd-9192-4a77-beee-606c5aa1489a.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5bf8ma2wl6</Fingerprint>
+      <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\97db4abd-9192-4a77-beee-606c5aa1489a.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\a7a92b2c-3db1-4dfe-bf64-e0446afb32f3.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProniaOneToManyFileCRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProniaOneToManyFileCRUD</BasePath>
+      <RelativePath>Uploads/Products/a7a92b2c-3db1-4dfe-bf64-e0446afb32f3.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i3chuujrzk</Fingerprint>
+      <Integrity>fl0uHmLJiYd8T4SwkIjYrSCQhxK4BAZBDPYJ3h7JOSg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\a7a92b2c-3db1-4dfe-bf64-e0446afb32f3.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\db41850d-85e6-441a-b00a-559967f55910.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProniaOneToManyFileCRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProniaOneToManyFileCRUD</BasePath>
+      <RelativePath>Uploads/Products/db41850d-85e6-441a-b00a-559967f55910.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i3chuujrzk</Fingerprint>
+      <Integrity>fl0uHmLJiYd8T4SwkIjYrSCQhxK4BAZBDPYJ3h7JOSg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\db41850d-85e6-441a-b00a-559967f55910.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\e839c0f7-bdff-4ba3-933a-edd7089cfe5d.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProniaOneToManyFileCRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProniaOneToManyFileCRUD</BasePath>
+      <RelativePath>Uploads/Products/e839c0f7-bdff-4ba3-933a-edd7089cfe5d.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i3chuujrzk</Fingerprint>
+      <Integrity>fl0uHmLJiYd8T4SwkIjYrSCQhxK4BAZBDPYJ3h7JOSg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\e839c0f7-bdff-4ba3-933a-edd7089cfe5d.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\eabd29bb-e92d-4ab7-a174-21c87506fa6a.jfif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ProniaOneToManyFileCRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ProniaOneToManyFileCRUD</BasePath>
+      <RelativePath>Uploads/Products/eabd29bb-e92d-4ab7-a174-21c87506fa6a.jfif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>i3chuujrzk</Fingerprint>
+      <Integrity>fl0uHmLJiYd8T4SwkIjYrSCQhxK4BAZBDPYJ3h7JOSg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Products\eabd29bb-e92d-4ab7-a174-21c87506fa6a.jfif'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

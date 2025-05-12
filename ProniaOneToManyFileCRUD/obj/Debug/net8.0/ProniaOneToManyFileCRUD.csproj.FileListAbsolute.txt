@@ -260,3 +260,8 @@ C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCR
 C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\obj\Debug\net8.0\ProniaOneToManyFileCRUD.RazorAssemblyInfo.cache
 C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\obj\Debug\net8.0\ProniaOneToManyFileCRUD.RazorAssemblyInfo.cs
 C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\ProniaOneToManyFileCRUD.staticwebassets.runtime.json
+C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emin\Desktop\backEndTasks\ProniaOneToManyFileCRUD\ProniaOneToManyFileCRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

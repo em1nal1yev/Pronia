@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|c:\\users\\emin\\desktop\\backendtasks\\proniaonetomanyfilecrud\\proniaonetomanyfilecrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0D266C-3386-4CF6-8AF3-B68185DBEA43}|ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD.csproj|solutionrelative:proniaonetomanyfilecrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T00:37:28.804Z",
+              "WhenOpened": "2025-05-11T20:07:11.568Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\ViewModels\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeToolTip": "ProniaOneToManyFileCRUD\\ViewModels\\Account\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:44:05.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T01:26:34.494Z",
+              "WhenOpened": "2025-05-12T00:33:53.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAIYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T00:38:23.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProniaOneToManyFileCRUD\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\ProniaOneToManyFileCRUD\\ProniaOneToManyFileCRUD\\Models\\Product.cs*",
-              "RelativeToolTip": "ProniaOneToManyFileCRUD\\Models\\Product.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T00:40:23.631Z",
+              "WhenOpened": "2025-05-12T00:15:41.625Z",
               "EditorCaption": ""
             }
           ]
